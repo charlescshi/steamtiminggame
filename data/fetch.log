@@ -1,0 +1,38 @@
+2026-11-24T17:31:17 game_daily is running; waiting 5 minutes
+2026-11-24T17:36:17 game_daily is running; waiting 5 minutes
+2026-11-24T17:41:17 game_daily is running; waiting 5 minutes
+2026-11-24T17:46:17 game_daily is running; waiting 5 minutes
+2026-11-24T17:51:17 game_daily is running; waiting 5 minutes
+2026-11-24T17:56:18 game_daily is running; waiting 5 minutes
+2026-11-24T18:01:18 game_daily is running; waiting 5 minutes
+2026-11-24T18:06:18 game_daily is running; waiting 5 minutes
+2026-11-24T18:11:18 game_daily is running; waiting 5 minutes
+2026-11-24T18:16:18 game_daily is running; waiting 5 minutes
+2026-11-24T18:21:18 game_daily is running; waiting 5 minutes
+2026-11-24T18:26:18 game_daily is running; waiting 5 minutes
+2026-11-24T18:31:18 game_daily is running; waiting 5 minutes
+2026-11-24T18:36:18 game_daily is running; waiting 5 minutes
+2026-11-24T18:41:18 game_daily is running; waiting 5 minutes
+2026-11-24T18:46:18 922 batches to fetch
+2026-11-24T18:47:47 50/922 batches done
+2026-11-24T18:48:24 HTTP 429 at batch 70; stopping. Re-run later to resume.
+2026-11-24T18:49:39-06:00 cooling down 15 min after the 18:48 refusal
+2026-11-24T19:04:39 854 batches to fetch; spacing 4.0s; no requests after 2026-11-25 02:00
+2026-11-24T19:08:46 50/854 batches done
+2026-11-24T19:12:52 100/854 batches done
+2026-11-24T19:16:59 150/854 batches done
+2026-11-24T19:21:05 200/854 batches done
+2026-11-24T19:25:04 250/854 batches done
+2026-11-24T19:29:02 300/854 batches done
+2026-11-24T19:33:05 350/854 batches done
+2026-11-24T19:37:04 400/854 batches done
+2026-11-24T19:41:02 450/854 batches done
+2026-11-24T19:44:57 500/854 batches done
+2026-11-24T19:48:54 550/854 batches done
+2026-11-24T19:52:51 600/854 batches done
+2026-11-24T19:56:47 650/854 batches done
+2026-11-24T20:00:43 700/854 batches done
+2026-11-24T20:04:36 750/854 batches done
+2026-11-24T20:08:31 800/854 batches done
+2026-11-24T20:12:24 850/854 batches done
+2026-11-24T20:12:43 854/854 batches done
